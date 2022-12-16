@@ -6,6 +6,6 @@
 - Maximillian Schwarzmüller
 - Ace Baugh
 
-## Course URL
+### Course URL
 Angular - The Complete Guide
 - https://www.udemy.com/course/the-complete-guide-to-angular-2/
